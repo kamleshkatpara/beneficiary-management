@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/beneficiary-management/static/css/main.ced99a93.css",
+    "main.css": "/beneficiary-management/static/css/main.bbcef3b1.css",
     "main.js": "/beneficiary-management/static/js/main.e356d4cc.js",
     "static/css/753.79f5939d.chunk.css": "/beneficiary-management/static/css/753.79f5939d.chunk.css",
     "static/js/753.d904818c.chunk.js": "/beneficiary-management/static/js/753.d904818c.chunk.js",
@@ -13,7 +13,7 @@
     "static/js/967.5b176322.chunk.js": "/beneficiary-management/static/js/967.5b176322.chunk.js",
     "static/js/858.a8603312.chunk.js": "/beneficiary-management/static/js/858.a8603312.chunk.js",
     "index.html": "/beneficiary-management/index.html",
-    "main.ced99a93.css.map": "/beneficiary-management/static/css/main.ced99a93.css.map",
+    "main.bbcef3b1.css.map": "/beneficiary-management/static/css/main.bbcef3b1.css.map",
     "main.e356d4cc.js.map": "/beneficiary-management/static/js/main.e356d4cc.js.map",
     "753.79f5939d.chunk.css.map": "/beneficiary-management/static/css/753.79f5939d.chunk.css.map",
     "753.d904818c.chunk.js.map": "/beneficiary-management/static/js/753.d904818c.chunk.js.map",
@@ -27,7 +27,7 @@
     "858.a8603312.chunk.js.map": "/beneficiary-management/static/js/858.a8603312.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ced99a93.css",
+    "static/css/main.bbcef3b1.css",
     "static/js/main.e356d4cc.js"
   ]
 }
