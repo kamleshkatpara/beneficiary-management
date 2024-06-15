@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/beneficiary-management/static/css/main.2b744a60.css",
+    "main.js": "/beneficiary-management/static/js/main.625d21df.js",
+    "static/css/753.79f5939d.chunk.css": "/beneficiary-management/static/css/753.79f5939d.chunk.css",
+    "static/js/753.d904818c.chunk.js": "/beneficiary-management/static/js/753.d904818c.chunk.js",
+    "static/css/36.56265fd9.chunk.css": "/beneficiary-management/static/css/36.56265fd9.chunk.css",
+    "static/js/36.1f9d1121.chunk.js": "/beneficiary-management/static/js/36.1f9d1121.chunk.js",
+    "static/css/233.6129ec56.chunk.css": "/beneficiary-management/static/css/233.6129ec56.chunk.css",
+    "static/js/233.41cd2585.chunk.js": "/beneficiary-management/static/js/233.41cd2585.chunk.js",
+    "static/js/453.a1f35af4.chunk.js": "/beneficiary-management/static/js/453.a1f35af4.chunk.js",
+    "static/css/967.71431e7f.chunk.css": "/beneficiary-management/static/css/967.71431e7f.chunk.css",
+    "static/js/967.5b176322.chunk.js": "/beneficiary-management/static/js/967.5b176322.chunk.js",
+    "static/js/858.a8603312.chunk.js": "/beneficiary-management/static/js/858.a8603312.chunk.js",
+    "index.html": "/beneficiary-management/index.html",
+    "main.2b744a60.css.map": "/beneficiary-management/static/css/main.2b744a60.css.map",
+    "main.625d21df.js.map": "/beneficiary-management/static/js/main.625d21df.js.map",
+    "753.79f5939d.chunk.css.map": "/beneficiary-management/static/css/753.79f5939d.chunk.css.map",
+    "753.d904818c.chunk.js.map": "/beneficiary-management/static/js/753.d904818c.chunk.js.map",
+    "36.56265fd9.chunk.css.map": "/beneficiary-management/static/css/36.56265fd9.chunk.css.map",
+    "36.1f9d1121.chunk.js.map": "/beneficiary-management/static/js/36.1f9d1121.chunk.js.map",
+    "233.6129ec56.chunk.css.map": "/beneficiary-management/static/css/233.6129ec56.chunk.css.map",
+    "233.41cd2585.chunk.js.map": "/beneficiary-management/static/js/233.41cd2585.chunk.js.map",
+    "453.a1f35af4.chunk.js.map": "/beneficiary-management/static/js/453.a1f35af4.chunk.js.map",
+    "967.71431e7f.chunk.css.map": "/beneficiary-management/static/css/967.71431e7f.chunk.css.map",
+    "967.5b176322.chunk.js.map": "/beneficiary-management/static/js/967.5b176322.chunk.js.map",
+    "858.a8603312.chunk.js.map": "/beneficiary-management/static/js/858.a8603312.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b744a60.css",
+    "static/js/main.625d21df.js"
+  ]
+}
