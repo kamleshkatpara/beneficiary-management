@@ -1,0 +1,24 @@
+.beneficiary-list {
+  width: 100%;
+  margin: auto;
+  max-width: 95vw;
+  border-bottom: 0.5px solid grey;
+}
+
+.beneficiary-header {
+  display: flex;
+}
+
+.beneficiary-header div {
+  font-weight: bold;
+}
+
+.beneficiary-header div {
+  flex: 1;
+  padding: 10px;
+  text-align: left;
+}
+
+.no-beneficiaries {
+  text-align: center;
+}

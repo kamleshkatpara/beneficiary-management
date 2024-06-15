@@ -1,0 +1,60 @@
+@keyframes slideInRight {
+  from {
+    transform: translateX(100%);
+    opacity: 0;
+  }
+  to {
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
+
+@keyframes slideOutRight {
+  from {
+    transform: translateX(0);
+    opacity: 1;
+  }
+  to {
+    transform: translateX(100%);
+    opacity: 0;
+  }
+}
+
+.flash-message {
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  padding: 20px;
+  background: #d9edf7;
+  color: #31708f;
+  border-color: #bce8f1;
+  border: 1px solid transparent;
+  border-radius: 4px;
+  opacity: 0;
+  transition: opacity 0.5s ease-in-out, transform 0.7s ease-in-out;
+  z-index: 1000;
+}
+
+.flash-message.show {
+  animation: slideInRight 0.5s forwards;
+}
+
+.flash-message.hide {
+  animation: slideOutRight 0.5s forwards;
+}
+
+.flash-message.success {
+  background-color: #4caf50;
+}
+
+.flash-message.error {
+  background-color: #f44336;
+}
+
+.flash-message.info {
+  background-color: #2196f3;
+}
+
+.flash-message.warning {
+  background-color: #ff9800;
+}

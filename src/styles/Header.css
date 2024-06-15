@@ -1,0 +1,30 @@
+.header {
+    background-color: #5e3d91;
+    color: white;
+    padding: 15px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .header h1 {
+    margin: 5px;
+    font-size: 1.4em;
+    display: flex;
+    align-items: center;
+  }
+  
+  .header h1 i {
+    margin-right: 20px;
+  }
+  
+  .user-icon {
+    color: #5e3d91;
+    background-color: white;
+    border-radius: 20px;
+    border: 0.5px solid white;
+    margin-right: 50px;
+    padding: 1px;
+    font-size: 20px;
+  }
+  
